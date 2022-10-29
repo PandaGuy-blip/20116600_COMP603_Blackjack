@@ -1,2 +1,2 @@
-# 20116600_COMP603_Blackjack
+# 20116600_COMP603_Game
 This is the software development project assignment
